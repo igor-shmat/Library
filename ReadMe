@@ -13,3 +13,5 @@ No UI is needed.
 Use any ORM you like
 Please try to complete this task within 7 days (it can be done much faster)
 Please provide a link to the git repository with a solution
+
+Все CRUD запросы в файле request.http
